@@ -1,5 +1,6 @@
 export * from './FbCallToAccount';
 export * from './FbCardCommunity';
+export * from './FbCardFarmers';
 export * from './FbCardHelpNeeded';
 export * from './FbCardHelpProvided';
 export * from './FbCardIdea';
